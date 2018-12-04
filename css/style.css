@@ -242,6 +242,8 @@ footer nav a:hover{
   padding: 0 .5rem;
 }
 
+
+
 @media screen and (max-width: 768px) {
   .topnav a:not(:first-child){
     display: none;
@@ -280,6 +282,9 @@ footer nav a:hover{
     margin-left: 10px;
   }
 
+  .blog-container{
+    width: 28rem;
+  }
 
 
 }
@@ -309,5 +314,9 @@ footer nav a:hover{
     .phot-itm{
       width: 70%;
       margin: 0 auto;
+    }
+
+    .blog-container{
+      width: 19rem;
     }
 }
