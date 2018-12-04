@@ -242,6 +242,12 @@ footer nav a:hover{
   padding: 0 .5rem;
 }
 
+.map{
+  width: 600px;
+  height: 400px;
+  margin: auto;
+
+}
 
 
 @media screen and (max-width: 768px) {
